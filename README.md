@@ -12,26 +12,6 @@ A curated collection of machine learning algorithms **from scratch**, with a str
 - **C++ Code**: Efficient, competitive-programming-friendly C++ versions  
 - **Clear Explanations**: Theory, code, and intuition in every notebook and file  
 - **Well-Commented Code**: Learn not just *what* works, but *why* it works
-
----
-
-## 🗂️ Repository Structure
-ml-algorithms/
-│
-├── linear_regression/
-│ ├── math_derivation.md
-│ ├── linear_regression.py
-│ ├── linear_regression.cpp
-│ └── linear_regression_framework.py
-│
-├── logistic_regression/
-│ └── ...
-│
-├── kmeans/
-│ └── ...
-│
-├── README.md
-└── ...
 ---
 ## 🎯 Who Is This For?
 
